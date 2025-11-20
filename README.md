@@ -1,16 +1,23 @@
-# vpn_simulator_batuev
+VPN Simulator — Учебный проект
 
-A new Flutter project.
+Студент: Батуев Ардан
+Дисциплина: Разработка мобильных приложений  
+Платформа: Flutter + VS Code + Android emulator
+Цель: Имитация интерфейса VPN-приложения (без реального подключения)
 
-## Getting Started
+Как запустить проект
 
-This project is a starting point for a Flutter application.
+1. Установи **Flutter SDK**:  
+   🔗 https://flutter.dev/docs/get-started/install
 
-A few resources to get you started if this is your first Flutter project:
+2. Установи **VS Code** (если ещё не установлен):  
+   🔗 https://code.visualstudio.com/
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+3. Установи **Android Studio** (для эмулятора):  
+   🔗 https://developer.android.com/studio
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+4. Открой папку проекта в VS Code:
+5. В терминале VS Code выполни:
+```bash
+flutter pub get
+flutter run
